@@ -9,13 +9,13 @@ This project is a basic Sign and Login website using Bootstrap, HTML, CSS, and J
 
 ## Technologies Used
 **Frontend:** Bootstrap, HTML, CSS, JavaScript  
-**Backend:** Java, JDBC, Servlet, JSP, SQL (MySQl)
+**Backend:** Java, JDBC, Servlet, JSP, SQL (MySQL)
 
 ## Prerequisites
 - Java Development Kit (JDK)
 - Apache Tomcat server
-- MySQL/PostgreSQL/SQLite database
-- Maven or Gradle
+- MySQL database
+- Maven
 
 ## Usage
 1. Start Apache Tomcat server.
